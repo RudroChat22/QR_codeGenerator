@@ -7,3 +7,4 @@ Once that is given the respective qr code will be generated as a png file.
 
 If you scan it, it will redirect you to that website.
 
+Note: The QR code is to me opened in the IDE itself there is no html file for this. The project is purely made out of javascript and node js.
